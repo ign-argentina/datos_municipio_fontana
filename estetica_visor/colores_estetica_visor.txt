@@ -1,0 +1,5 @@
+Colores estética visor.
+
+Barra superior → #2474c1
+Barra lateral → #dcdcdb
+Selección → #3da435
