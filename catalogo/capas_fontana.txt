@@ -1,66 +1,66 @@
-cultura;edificio_de_cultura_fontana;edificio_cultura_visor;
-fabricacion_y_procesamiento;area_de_fabricacion_y_procesamiento_fontana;areas_de_fabricacion_y_procesamiento_visor;
-geografia_fisica;lagunas_poligono;espejo_agua_visor;
-geografia_fisica;rios_poligono;rios_poligono;
-gobierno_y_sociedad;gobierno_local_fontana;gobierno_local_visor;
-infraestructura;cloacas_completo;red_de_cloacas;
-planeamiento_urbano;barrios_2018;barrios;
-planeamiento_urbano;equipamiento_urbano;equipamiento;
-planeamiento_urbano;puntos_de_cementerio_fontana;cementerio;
-planeamiento_urbano;areas_de_cementerio_fontana;area_cementerio;
-planeamiento_urbano;edificio_de_comunicaciones_fontana;edificio_comunicaciones;
-planeamiento_y_catastro;fontana_chacra_2021;chacra;
-planeamiento_y_catastro;fontana_manzana_2021;manzanas;
-planeamiento_y_catastro;fontana_parcela;parcelas;
-planeamiento_y_catastro;zona_uso_del_suelo;uso_suelo;
-planeamiento_y_catastro;limite;municipio_visor;
-planeamiento_y_catastro;espacios_verdes;espacio_verde;
-planeamiento_y_catastro;planta_urbana_fontana;planta_urbana_visor;
-salud_y_educacion;equipamiento_educativo;edificio_educativo_visor;
-salud_y_educacion;equipamiento_sanitario;edificio_salud_municipio;
-salud_y_educacion;area_programatica_caps;area_salud;
-salud_y_educacion;edificio_de_salud_fontana;edificio_salud_visor;
-seguridad;edificio_de_seguridad_fontana;edificio_seguridad_visor;
-seguridad;cuartel_de_bomberos_fontana;cuartel_bomberos_visor;
-servicios;riego_calles;riego_calles;
-servicios;recoleccion_nueva;recoleccion_residuos_linea;
-transporte;ejes_calles_fontana_2020;vial_nacional;
-transporte;ejes_calles_fontana_2020;vial_terciario;
-transporte;ejes_calles_fontana_2020;vial_urbano;
-transporte;aeropuerto_poligono;restriccion_aeropuerto;
-transporte;recorrido_colectivos;recorrido_colectivos;
-transporte;parada_colectivos;estacion_de_omnibus;
-transporte;estacion_de_ferrocarril_fontana;puntos_de_transporte_ferroviario_visor;
-fontana;edificio_de_cultura_fontana;point_fontana;
-fontana;area_de_fabricacion_y_procesamiento_fontana;polygon_fontana;
-fontana;lagunas_poligono;polygon_fontana;
-fontana;rios_poligono;polygon_fontana;
-fontana;gobierno_local_fontana;point_fontana;
-fontana;cloacas_completo;line_fontana;
-fontana;barrios_2018;polygon_fontana;
-fontana;equipamiento_urbano;point_fontana;
-fontana;puntos_de_cementerio_fontana;point_fontana;
-fontana;areas_de_cementerio_fontana;polygon_fontana;
-fontana;edificio_de_comunicaciones_fontana;point_fontana;
-fontana;fontana_chacra_2021;polygon_fontana;
-fontana;fontana_manzana_2021;polygon_fontana;
-fontana;fontana_parcela;polygon_fontana;
-fontana;zona_uso_del_suelo;polygon_fontana;
-fontana;limite;polygon_fontana;
-fontana;espacios_verdes;polygon_fontana;
-fontana;planta_urbana_fontana;polygon_fontana;
-fontana;equipamiento_educativo;point_fontana;
-fontana;equipamiento_sanitario;point_fontana;
-fontana;area_programatica_caps;polygon_fontana;
-fontana;edificio_de_salud_fontana;point_fontana;
-fontana;edificio_de_seguridad_fontana;point_fontana;
-fontana;cuartel_de_bomberos_fontana;point_fontana;
-fontana;riego_calles;line_fontana;
-fontana;recoleccion_nueva;line_fontana;
-fontana;ejes_calles_fontana_2020;line_fontana;
-fontana;ejes_calles_fontana_2020;line_fontana;
-fontana;ejes_calles_fontana_2020;line_fontana;
-fontana;aeropuerto_poligono;polygon_fontana;
-fontana;recorrido_colectivos;line_fontana;
-fontana;parada_colectivos;point_fontana;
-fontana;estacion_de_ferrocarril_fontana;point_fontana;
+cultura;db_fontana_catalogo;catalogo;sig_edificio_de_cultura_fontana;;edificio_de_cultura_fontana;Edificio de cultura;cultura,cultural,museo,galeria;;4326;gid;;;gid,geom,nombre_geografico;Edificio de cultura;edificio_cultura_visor;edificio_cultura_visor.svg
+fabricacion_y_procesamiento;db_fontana_catalogo;catalogo;sig_area_de_fabricacion_y_procesamiento_fontana;;area_de_fabricacion_y_procesamiento_fontana;Área industrial;fabricacion,procesamiento,industria;;4326;gid;;;gid,geom,nombre_geografico;Área industrial;areas_de_fabricacion_y_procesamiento_visor;
+geografia_fisica;db_fontana_catalogo;catalogo;sig_lagunas_poligono;;lagunas_poligono;Cuerpos de agua;laguna,lagunas,agua,lago;;4326;gid;;;gid,geom,nombre,sup_m2;Polígono que define los cuerpos de agua del municipios ( lagunas naturales y meandros abandonados del Rio Araza y Rio Negro);espejo_agua_visor;
+geografia_fisica;db_fontana_catalogo;catalogo;sig_rios_poligono;;rios_poligono;Rios;rio,rios,agua,arroyo;;4326;gid;;;gid,geom,nomb;Polígono que delimita los margenes de los ríos;rios_poligono;
+gobierno_y_sociedad;db_fontana_catalogo;catalogo;sig_gobierno_local_fontana;;gobierno_local_fontana;Gobierno local;gobierno,territorio,ciudad;;4326;gid;;;gid,geom,nombre_geografico;Jurisdicción político-administrativa de tercer o cuarto orden. Incluye municipios, comunas, juntas y comisiones.;gobierno_local_visor;gobierno_local_visor.svg
+infraestructura;db_fontana_catalogo;catalogo;sig_cloacas_completo;;cloacas_completo;Red de cloacas-relevamiento;cloaca,cloacas,redes,control;;4326;gid;;;gid,geom,layer;Traza de las redes de cloacas del municipio en sus diferentes estados de funcionamiento;red_de_cloacas;
+planeamiento_urbano;db_fontana_catalogo;catalogo;sig_barrios_2018;;barrios_2018;Barrios;barrio,barrios,vecindario;;4326;gid;;;gid,geom,nombre_b;Polígonos que delimitan los barrios de la localidad;barrios;
+planeamiento_urbano;db_fontana_catalogo;catalogo;sig_equipamiento_urbano;;equipamiento_urbano;Equipamiento urbano;urbano,equipamiento;;4326;gid;;;gid,geom,identifica,tema;Equipamiento urbano de la ciudad de Fontana;equipamiento;equipamiento.svg
+planeamiento_urbano;db_fontana_catalogo;catalogo;sig_puntos_de_cementerio_fontana;;puntos_de_cementerio_fontana;Cementerio;cementerio,cementerios,sepultura,nicho;;4326;gid;;;gid,geom,nombre_geografico;Cementerio municipal;cementerio;cementerio.svg
+planeamiento_urbano;db_fontana_catalogo;catalogo;sig_areas_de_cementerio_fontana;;areas_de_cementerio_fontana;Área de cementerio;cementerio,cementerios,sepultura,nicho;;4326;gid;;;gid,geom,nombre_geografico;Área del cementerio municipal;area_cementerio;
+planeamiento_urbano;db_fontana_catalogo;catalogo;sig_edificio_de_comunicaciones_fontana;;edificio_de_comunicaciones_fontana;Edificio de comunicaciones;comunicaciones,comunicación,postal,correo;;4326;gid;;;gid,geom,nombre_geografico,termino_especifico;Edificio del Correo Argentino;edificio_comunicaciones;edificio_comunicaciones.svg
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_fontana_chacra_2021;;fontana_chacra_2021;Chacra;chacras,chacra,cultivo,siembra;;4326;gid;;;gid,geom,ch_etiq;Polígonos que muestran las chacras que componen el ejido municipal;chacra;
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_fontana_manzana_2021;;fontana_manzana_2021;Manzana;manzana,manzanas,cuadras,parcelas;;4326;gid;;;gid,geom,mz_etiquet;Polígonos que representan el amanzanamiento del ejido municipal;manzanas;
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_fontana_parcela;;fontana_parcela;Parcelas;parcelas,manzana,cuadras,;;4326;gid;;;gid,geom,id_cata, pc_etiq;Polígonos que representan el estado parcelario del ejido municipal;parcelas;
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_zona_uso_del_suelo;;zona_uso_del_suelo;Uso del suelo;suelo,suelos,;;4326;gid;;;gid,geom,layer,nombre;Polígonos que resumen el código de planificación urbano-ambiental de la municipalidad acorde al uso del suelo urbano de la localidad;uso_suelo;
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_limite;;limite;Límite Fontana;limite,limites,demarcacion,division;;4326;gid;;;;Polígono que demarca los límites de la extención territorial del ejido catastraal;municipio_visor;
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_espacios_verdes;;espacios_verdes;Espacios verdes;plaza,parque,plazoleta;;4326;gid;;;;Espacios verdes de la localidad;espacio_verde;
+planeamiento_y_catastro;db_fontana_catalogo;catalogo;sig_planta_urbana_fontana;;planta_urbana_fontana;Planta urbana;ejido,ciudad,urbana,;;4326;gid;;;gid,geom,nombre_geografico;Planta urbana;planta_urbana_visor;
+salud_y_educacion;db_fontana_catalogo;catalogo;sig_equipamiento_educativo;;equipamiento_educativo;Equipamiento educativo;educación,educativo,equipamiento;;4326;gid;;;gid,geom,identifica,descripcio;Puntos que representan la localización de los establecimientos educativos;edificio_educativo_visor;edificio_educativo_visor.svg
+salud_y_educacion;db_fontana_catalogo;catalogo;sig_equipamiento_sanitario;;equipamiento_sanitario;Equipamiento de salud;salud,sanitario,equipamiento;;4326;gid;;;gid,geom,identifica,descripcio;Puntos que representan la localización de los centros atención primarios de la salud;edificio_salud_municipio;edificio_salud_municipio.svg
+salud_y_educacion;db_fontana_catalogo;catalogo;sig_area_programatica_caps;;area_programatica_caps;Área Programatica Salud;salud,sanitario,equipamiento;;4326;gid;;;gid,geom,areaprogra;Polígono que define las áreas de intervención territorial de los CAPS ( Centros de Atención Primaria de la Salud);area_salud;
+salud_y_educacion;db_fontana_catalogo;catalogo;sig_edificio_de_salud_fontana;;edificio_de_salud_fontana;Edificio de salud;salud,medicina,hospital,sanitario,;;4326;gid;;;gid,geom,nombre_geografico,termino_especifico;Edificios de Salud, CAPS ( Centros de Atención Primaria de la Salud);edificio_salud_visor;edificio_salud_visor.svg
+seguridad;db_fontana_catalogo;catalogo;sig_edificio_de_seguridad_fontana;;edificio_de_seguridad_fontana;Edificio de seguridad;seguridad,control,policía;;4326;gid;;;gid,geom,nombre_geografico,termino_especifico;Fuerzas de seguridad;edificio_seguridad_visor;edificio_seguridad_visor.svg
+seguridad;db_fontana_catalogo;catalogo;sig_cuartel_de_bomberos_fontana;;cuartel_de_bomberos_fontana;Cuartel de bomberos;bombero, bomberos, fuego, incendio;;4326;gid;;;gid,geom,nombre_geografico;Cuartel de bomberos voluntarios;cuartel_bomberos_visor;bomberos_visor.svg
+servicios;db_fontana_catalogo;catalogo;sig_riego_calles;;riego_calles;Riego de calles;servicios,riego,limpieza;;4326;gid;;;;Líneas que representan los recorridos del servicio de riego de las calles de tierra y enripiadas;riego_calles;
+servicios;db_fontana_catalogo;catalogo;sig_recoleccion_nueva;;recoleccion_nueva;Recolección de residuos;servicios,residuos,basura;;4326;gid;;;gid,geom,layer,barrios,chacras,horarios;Líneas que identifican los recorridos de los camiones compactadores de residuos;recoleccion_residuos_linea;
+transporte;db_fontana_catalogo;catalogo;sig_ejes_calles_fontana_2020;;ejes_calles_fontana_2020;Calles pavimentadas;pavimento,superficie,construccion,material;;4326;gid;codigo;3;gid,geom,nombre;Línea que representa las calles pavimentadas de la municipalidad;vial_nacional;
+transporte;db_fontana_catalogo;catalogo;sig_ejes_calles_fontana_2020;;ejes_calles_fontana_2020;Calles de ripio;ripio,superficies, construccion,material;;4326;gid;codigo;2;gid,geom,nombre;Línea que representa las calles de ripio de la municipalidad;vial_terciario;
+transporte;db_fontana_catalogo;catalogo;sig_ejes_calles_fontana_2020;;ejes_calles_fontana_2020;Calles de tierra;tierra,superficie,construccion,material;;4326;gid;codigo;0;gid,geom,nombre;Línea que representa las calles de tierras de la municipalidad;vial_urbano;
+transporte;db_fontana_catalogo;catalogo;sig_aeropuerto_poligono;;aeropuerto_poligono;Restricción aeropuerto;aeronaves,avion,pista;;4326;gid;;;gid,geom,plano,restricc;Polígonos que representan las zonas de restricción del aeropuertos de Resistencia;restriccion_aeropuerto;
+transporte;db_fontana_catalogo;catalogo;sig_recorrido_colectivos;;recorrido_colectivos;Colectivos;colectivo,colectivos,recorido,transporte,;;4326;gid;;;gid,geom,ramal,log;Líneas que representan el recorrido de colectivos en el ejido municipal;recorrido_colectivos;
+transporte;db_fontana_catalogo;catalogo;sig_parada_colectivos;;parada_colectivos;Paradas de colectivos;colectivo,colectivos,recorido,transporte,;;4326;gid;;;;Paradas de los colectivos urbanos;estacion_de_omnibus;estacion_de_omnibus.svg
+transporte;db_fontana_catalogo;catalogo;sig_estacion_de_ferrocarril_fontana;;estacion_de_ferrocarril_fontana;Estación de ferrocarril "Cacui";ferrocarril,estacion,cacui;;4326;gid;;;gid,geom,nombre_geografico,termino_especifico;Estación del ferrocarril Cacui;puntos_de_transporte_ferroviario_visor;estacion_ferrocarril_visor.svg
+fontana;db_fontana_public;public;edificio_de_cultura_fontana;;edificio_de_cultura_fontana;Edificio de cultura;;;4326;gid;;;gid,fna;Edificio de cultura;point_fontana;
+fontana;db_fontana_public;public;area_de_fabricacion_y_procesamiento_fontana;;area_de_fabricacion_y_procesamiento_fontana;Área industrial;;;4326;gid;;;gid,fna;Área industrial;polygon_fontana;
+fontana;db_fontana_public;public;lagunas_poligono;;lagunas_poligono;Cuerpos de agua;;;4326;gid;;;gid,nombre,sup_m2;Polígono que define los cuerpos de agua del municipios ( lagunas naturales y meandros abandonados del Rio Araza y Rio Negro);polygon_fontana;
+fontana;db_fontana_public;public;rios_poligono;;rios_poligono;Rios;;;4326;gid;;;gid,nomb;Polígono que delimita los margenes de los ríos;polygon_fontana;
+fontana;db_fontana_public;public;gobierno_local_fontana;;gobierno_local_fontana;Gobierno local;;;4326;gid;;;gid,fna;Jurisdicción político-administrativa de tercer o cuarto orden. Incluye municipios, comunas, juntas y comisiones.;point_fontana;
+fontana;db_fontana_public;public;cloacas_completo;;cloacas_completo;Red de cloacas-relevamiento;;;4326;gid;;;gid,layer;Traza de las redes de cloacas del municipio en sus diferentes estados de funcionamiento;line_fontana;
+fontana;db_fontana_public;public;barrios_2018;;barrios_2018;Barrios;;;4326;gid;;;gid,nombre_B;Polígonos que delimitan los barrios de la localidad;polygon_fontana;
+fontana;db_fontana_public;public;equipamiento_urbano;;equipamiento_urbano;Equipamiento urbano;;;4326;gid;;;gid,identifica,tema;Equipamiento urbano de la ciudad de Fontana;point_fontana;
+fontana;db_fontana_public;public;puntos_de_cementerio_fontana;;puntos_de_cementerio_fontana;Cementerio;;;4326;gid;;;gid,fna;Cementerio municipal;point_fontana;
+fontana;db_fontana_public;public;areas_de_cementerio_fontana;;areas_de_cementerio_fontana;Área de cementerio;;;4326;gid;;;gid,fna;Área del cementerio municipal;polygon_fontana;
+fontana;db_fontana_public;public;edificio_de_comunicaciones_fontana;;edificio_de_comunicaciones_fontana;Edificio de comunicaciones;;;4326;gid;;;gid,fna,nam;Edificio del Correo Argentino;point_fontana;
+fontana;db_fontana_public;public;fontana_chacra_2021;;fontana_chacra_2021;Chacra;;;4326;gid;;;gid,ch_etiq;Polígonos que muestran las chacras que componen el ejido municipal;polygon_fontana;
+fontana;db_fontana_public;public;fontana_manzana_2021;;fontana_manzana_2021;Manzana;;;4326;gid;;;gid,mz_etiquet;Polígonos que representan el amanzanamiento del ejido municipal;polygon_fontana;
+fontana;db_fontana_public;public;fontana_parcela;;fontana_parcela;Parcelas;;;4326;gid;;;gid,id_cata,pc_etiq;Polígonos que representan el estado parcelario del ejido municipal;polygon_fontana;
+fontana;db_fontana_public;public;zona_uso_del_suelo;;zona_uso_del_suelo;Uso del suelo;;;4326;gid;;;gid,layer,nombre;Polígonos que resumen el código de planificación urbano-ambiental de la municipalidad acorde al uso del suelo urbano de la localidad;polygon_fontana;
+fontana;db_fontana_public;public;limite;;limite;Límite Fontana;;;4326;gid;;;;Polígono que demarca los límites de la extención territorial del ejido catastraal;polygon_fontana;
+fontana;db_fontana_public;public;espacios_verdes;;espacios_verdes;Espacios verdes;;;4326;gid;;;;Espacios verdes de la localidad;polygon_fontana;
+fontana;db_fontana_public;public;planta_urbana_fontana;;planta_urbana_fontana;Planta urbana;;;4326;gid;;;gid,fna;Planta urbana;polygon_fontana;
+fontana;db_fontana_public;public;equipamiento_educativo;;equipamiento_educativo;Equipamiento educativo;;;4326;gid;;;gid,identifica,descripcio;Puntos que representan la localización de los establecimientos educativos;point_fontana;
+fontana;db_fontana_public;public;equipamiento_sanitario;;equipamiento_sanitario;Equipamiento de salud;;;4326;gid;;;gid,identifica,descripcio;Puntos que representan la localización de los centros atención primarios de la salud;point_fontana;
+fontana;db_fontana_public;public;area_programatica_caps;;area_programatica_caps;Área Programatica Salud;;;4326;gid;;;gid,areaprogra;Polígono que define las áreas de intervención territorial de los CAPS ( Centros de Atención Primaria de la Salud);polygon_fontana;
+fontana;db_fontana_public;public;edificio_de_salud_fontana;;edificio_de_salud_fontana;Edificio de salud;;;4326;gid;;;gid,fna,nam;Edificios de Salud, CAPS ( Centros de Atención Primaria de la Salud);point_fontana;
+fontana;db_fontana_public;public;edificio_de_seguridad_fontana;;edificio_de_seguridad_fontana;Edificio de seguridad;;;4326;gid;;;gid,fna,nam;Fuerzas de seguridad;point_fontana;
+fontana;db_fontana_public;public;cuartel_de_bomberos_fontana;;cuartel_de_bomberos_fontana;Cuartel de bomberos;;;4326;gid;;;gid,fna;Cuartel de bomberos voluntarios;point_fontana;
+fontana;db_fontana_public;public;riego_calles;;riego_calles;Riego de calles;;;4326;gid;;;;Líneas que representan los recorridos del servicio de riego de las calles de tierra y enripiadas;line_fontana;
+fontana;db_fontana_public;public;recoleccion_nueva;;recoleccion_nueva;Recolección de residuos;;;4326;gid;;;gid,layer,barrios,chacras,horarios;Líneas que identifican los recorridos de los camiones compactadores de residuos;line_fontana;
+fontana;db_fontana_public;public;ejes_calles_fontana_2020;;ejes_calles_fontana_2020;Calles pavimentadas;;;4326;gid;codigo;3;gid,nombre;Línea que representa las calles pavimentadas de la municipalidad;line_fontana;
+fontana;db_fontana_public;public;ejes_calles_fontana_2020;;ejes_calles_fontana_2020;Calles de ripio;;;4326;gid;codigo;2;gid,nombre;Línea que representa las calles de ripio de la municipalidad;line_fontana;
+fontana;db_fontana_public;public;ejes_calles_fontana_2020;;ejes_calles_fontana_2020;Calles de tierra;;;4326;gid;codigo;0;gid,nombre;Línea que representa las calles de tierras de la municipalidad;line_fontana;
+fontana;db_fontana_public;public;aeropuerto_poligono;;aeropuerto_poligono;Restricción aeropuerto;;;4326;gid;;;gid,plano,restricc;Polígonos que representan las zonas de restricción del aeropuertos de Resistencia;polygon_fontana;
+fontana;db_fontana_public;public;recorrido_colectivos;;recorrido_colectivos;Colectivos;;;4326;gid;;;gid,ramal,log;Líneas que representan el recorrido de colectivos en el ejido municipal;line_fontana;
+fontana;db_fontana_public;public;parada_colectivos;;parada_colectivos;Paradas de colectivos;;;4326;gid;;;;Paradas de los colectivos urbanos;point_fontana;
+fontana;db_fontana_public;public;estacion_de_ferrocarril_fontana;;estacion_de_ferrocarril_fontana;Estación de ferrocarril "Cacui";;;4326;gid;;;gid,fna,nam;Estación del ferrocarril Cacui;point_fontana;
