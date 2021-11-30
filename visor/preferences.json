@@ -1,0 +1,74 @@
+{
+  "table": {
+    "isActive": true,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "layer_options":{
+    "isActive": false
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -27.42,
+      "longitude": -59.03
+    },
+    "zoom": {
+      "initial": 14,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "service":{
+    "wmts": {
+      "maxZoom": 21
+    }
+  },
+  "showSearchBar": false,
+  "searchbar":{
+    "isActive": true,
+    "top": "5px",
+    "left": "40%",
+    "color_focus": "#008dc9",
+    "background_color": "rgba(255, 255, 255, 0.7)"
+  },
+  "referencias": {
+    "show": false,
+    "src": "src/config/default/styles/images/referencias.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#2474c1",
+    "headerBackground": "#2474c1",
+    "menuBackground": "#dcdcdb",
+    "activeLayer": "#3da435",
+    "textMenu":"#2474c1",
+    "textMenuStyle":"",
+    "textLegendMenu":"#598cbd",
+    "textLegendMenuStyle":"",
+    "iconBar":"#4f4f4f"
+    },
+  "logo": {
+    "title":"Municipalidad de Fontana",
+    "src": "src/config/styles/images/logo_fontana.png",
+    "height": "110px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo_fontana.png",
+    "miniHeight": "110px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Visor Mapas Municipalidad de Fontana",
+  "website": "https://fontana.chaco.gov.ar/",
+  "favicon": "src/config/styles/images/icof.ico"
+}
