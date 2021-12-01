@@ -22,7 +22,7 @@
         <se:Rule>
           <se:TextSymbolizer>
             <se:Label>
-              <ogc:PropertyName>PARC</ogc:PropertyName>
+              <ogc:PropertyName>pc_etiq</ogc:PropertyName>
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">MS Shell Dlg 2</se:SvgParameter>

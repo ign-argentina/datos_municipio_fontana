@@ -22,7 +22,7 @@
         <se:Rule>
           <se:TextSymbolizer>
             <se:Label>
-              <ogc:PropertyName>MANZ</ogc:PropertyName>
+              <ogc:PropertyName>mz_etiquet</ogc:PropertyName>
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">MS Shell Dlg 2</se:SvgParameter>
