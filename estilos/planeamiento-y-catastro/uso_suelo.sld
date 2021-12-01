@@ -12,7 +12,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>LAGUNA</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -34,7 +34,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>RESTRICCION LAGUNA OXIDACION</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -56,7 +56,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>sectores barriales</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -78,7 +78,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>ZONA- RA-1- RESTRICCION DEL AEROPUERTO</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -100,7 +100,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>ZONA- RA-2- RESTRICCION DEL AEROPUERTO</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -122,7 +122,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-C2</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -144,7 +144,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-C3</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -166,7 +166,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-ER</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -188,7 +188,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-PI</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -210,7 +210,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-R2</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -232,7 +232,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-R3</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -254,7 +254,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-RI</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -276,7 +276,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-RQ</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -298,7 +298,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-RU1</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -320,7 +320,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-RU2</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -342,7 +342,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-UE1</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -364,7 +364,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-UE2</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -386,7 +386,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-UE3</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -408,7 +408,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-ZR</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -430,7 +430,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Layer</ogc:PropertyName>
+              <ogc:PropertyName>layer</ogc:PropertyName>
               <ogc:Literal>Zon-ZRSR</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
